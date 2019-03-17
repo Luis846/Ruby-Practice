@@ -1,4 +1,4 @@
-# bottles = 100
+ # bottles = 100
 
 # while bottles > 0
 #   puts  bottles.to_s + ' bottles of beer on the wall ' + bottles.to_s 
